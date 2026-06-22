@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lluvia-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lluvia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-seda/) |
+| **Get License** | [Music Rights & Licensing for Lluvia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1d96507305abf6c9a9c2accb03f6ecc954e5dbbd728cfbcd0339fb9298a6c4cb` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lluvia de seda
+
+This log tracks the cryptographic history and versioning for the song **Lluvia de seda** (lluvia-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:01:32.770891 | `v1` | `1d96507305abf6c9a9c2accb03f6ecc954e5dbbd728cfbcd0339fb9298a6c4cb` | `2822132d7f243e08f4253ea738e0c7b2d2549552bcfeb5ebf11fa3edc61f6f47` | `2026-06-22_lluvia-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
