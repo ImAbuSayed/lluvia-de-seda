@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lluvia-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Lluvia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-seda/) |
+| **Get License** | [Request Licensing for Lluvia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lluvia-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche brilla más cuando me miras así,
+> tú eres el fuego oscuro que siempre me hace vivir.
+> Quiero tenerte cerca, rompiendo la gravedad,
+> cayendo lento en esta dulce lluvia de seda.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
